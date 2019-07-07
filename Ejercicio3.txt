@@ -1,0 +1,5 @@
+# Nombre: Ejerciciouno.py
+# Objetivo: Ejercicio 1 de jupyter
+# 
+# Autor: Carlos Vázquez
+# Fecha 4 Julio 2019
